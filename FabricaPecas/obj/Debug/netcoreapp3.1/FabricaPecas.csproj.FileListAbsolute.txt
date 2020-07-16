@@ -1,0 +1,12 @@
+C:\Users\Diego\source\repos\FabricaPecas\FabricaPecas\bin\Debug\netcoreapp3.1\FabricaPecas.exe
+C:\Users\Diego\source\repos\FabricaPecas\FabricaPecas\bin\Debug\netcoreapp3.1\FabricaPecas.deps.json
+C:\Users\Diego\source\repos\FabricaPecas\FabricaPecas\bin\Debug\netcoreapp3.1\FabricaPecas.runtimeconfig.json
+C:\Users\Diego\source\repos\FabricaPecas\FabricaPecas\bin\Debug\netcoreapp3.1\FabricaPecas.runtimeconfig.dev.json
+C:\Users\Diego\source\repos\FabricaPecas\FabricaPecas\bin\Debug\netcoreapp3.1\FabricaPecas.dll
+C:\Users\Diego\source\repos\FabricaPecas\FabricaPecas\bin\Debug\netcoreapp3.1\FabricaPecas.pdb
+C:\Users\Diego\source\repos\FabricaPecas\FabricaPecas\obj\Debug\netcoreapp3.1\FabricaPecas.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\FabricaPecas\FabricaPecas\obj\Debug\netcoreapp3.1\FabricaPecas.AssemblyInfo.cs
+C:\Users\Diego\source\repos\FabricaPecas\FabricaPecas\obj\Debug\netcoreapp3.1\FabricaPecas.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\FabricaPecas\FabricaPecas\obj\Debug\netcoreapp3.1\FabricaPecas.dll
+C:\Users\Diego\source\repos\FabricaPecas\FabricaPecas\obj\Debug\netcoreapp3.1\FabricaPecas.pdb
+C:\Users\Diego\source\repos\FabricaPecas\FabricaPecas\obj\Debug\netcoreapp3.1\FabricaPecas.genruntimeconfig.cache
